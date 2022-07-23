@@ -1,0 +1,1 @@
+Jogo da Cobrinha que tinhas nos primeiros celulares, projeto realizado no Bootcamp da DIO. Foram utilizados HTML, CSS e Javascript.
